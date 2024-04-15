@@ -30,52 +30,6 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 🌱 My work in Machine Learning encompasses projects focused on Regression, Clustering and NLP, providing valuable insights and practical experience.
 
-<!-- 
-## ♦️ Data Analysis Projects 🚧
-
-🌱 [Prediction of Learning Disabilities in school age children](https://github.com/sarathchandrikak/Final-Year-Project)\
-🌱 [Farmer's Market Expansion](https://github.com/sarathchandrikak/Data-Analysis-Projects/tree/main/Farmer%20Expansion)\
-🌱 [NYC Taxi ride EDA](https://github.com/sarathchandrikak/Data-Analysis-Projects/tree/main/NYC%20Taxi%20EDA)\
-🌱 [Food Forecasting Analysis](https://github.com/sarathchandrikak/Food-Forecasting-Analysis)\
-🌱 [Bellabeat Case Study](https://github.com/sarathchandrikak/Google-Data-Analytics-Capstone/blob/main/Markdown.pdf)\
-🌱 [Assure Next Simulation Project](https://github.com/sarathchandrikak/Business-Analyst/tree/main/Excel)\
-🌱 [Employee Info Case Study](https://github.com/sarathchandrikak/sql-data-analysis/tree/main/Employee%20Info%20Case%20Study)
- 
-
-## ♦️ Tools 🔨
-
-
-![](https://img.shields.io/badge/AWSCloud-Redshift-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
-![](https://img.shields.io/badge/EMR-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
-![](https://img.shields.io/badge/EC2-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
-![](https://img.shields.io/badge/S3-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
-![](https://img.shields.io/badge/Boto3-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
-![](https://img.shields.io/badge/DataAnalysis-Python-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/SQL-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
-![](https://img.shields.io/badge/R-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Excel-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Tableau-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/PowerBI-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
-![](https://img.shields.io/badge/DataEngineering-DataModelling-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
-![](https://img.shields.io/badge/DataWarehouse-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
-![](https://img.shields.io/badge/ETL-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
-![](https://img.shields.io/badge/ApacheSpark-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
-![](https://img.shields.io/badge/ApacheHive-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
-![](https://img.shields.io/badge/ApacheKafka-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
-![](https://img.shields.io/badge/ApacheAirflow-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
-![](https://img.shields.io/badge/SparkOptimization-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) 
-
-![](https://img.shields.io/badge/General-Git-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/BitBucket-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/PyCharm-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Spyder-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/RStudio-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/PyQt-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) -->
-
 
 ## ♦️ Skills 💻
 ![](https://img.shields.io/badge/NLP-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
@@ -98,9 +52,3 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
   
  ## ♦️ ![Shubhkirti's Profile Views](https://komarev.com/ghpvc/?username=shubhkirti24)
   
-<!-- ![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarathchandrikak&show_icons=true&theme=dark) Please feel free to connect with me - sarathchandrikaksc@gmail.com
-
-
-## ♦️ Achievements 😎
-
-I have been awarded the Stride The Tride award for independently handling the development and management of the tool. -->
