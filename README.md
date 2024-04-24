@@ -11,7 +11,7 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
      ▶️ Python, OOPS, R, Advanced SQL, EDA, Data Modelling, Prompt Engineering, LLMs, Agile Methodologies
 
-     ▶️ Libraries : NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn, Huggingface, PEFT
+     ▶️ Libraries : NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn, LangChain, Ollama, Huggingface, PEFT
 
      ▶️ Visualization :  Tableau, Power BI, Seaborn, Matplotlib 
 
