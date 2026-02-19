@@ -4,7 +4,7 @@
 
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🌱 I'm a Data Scientist/Analyst with a foundation in Computer Science and Mechanical Engineering. With over 2 years of experience in creating and deploying novel solutions for complex business problems, with a keen interest in NLP, I specialize in Python, OOPS, SQL, Machine Learning and Deep Learning.
+🌱 I'm the Head Of AI / AI for Realbotix Architect (A Humanoid Robotics Company) with a foundation in Computer Science and Mechanical Engineering. With over 5 years of experience in creating and deploying novel solutions for complex business problems, with a keen interest in NLP, I specialize in Python, OOPS, SQL, Machine Learning and Deep Learning.
 
 
 🌱 I am well versed in 
@@ -22,13 +22,10 @@ Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
      ▶️ Tools - Git, Conda, VSCode, RStudio, Docker, MS Office
 
 
-📝 Certifications : Lean Six Sigma yellow belt (Govt. of India) | Professional Data Scientist, IBM – (2021)
+📝 Certifications : Lean Six Sigma yellow belt (Govt. of India) | Professional Data Scientist, IBM – (2021), etc.
 
-🔭 I am currently enrolled in the MS. in Data Science from Indiana University Bloomington, USA (May 2024). I have previously completed Machine Learning from Stanford University. 
+🔭 I have a MS. in Data Science from Indiana University Bloomington, USA and have previously completed Machine Learning from Stanford University. 
 
-🌱 In the realm of Data Analysis, I have engaged in case studies and exploratory data analysis (EDA) using Python, SQL, and data visualization tools such as Tableau.
-
-🌱 My work in Machine Learning encompasses projects focused on Regression, Clustering and NLP, providing valuable insights and practical experience.
 
 
 ## ♦️ Skills 💻
